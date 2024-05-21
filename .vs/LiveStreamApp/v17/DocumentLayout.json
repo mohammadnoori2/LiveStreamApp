@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{082F22E0-AEE9-4A1E-87CD-612D9BD50DE8}|LiveStreamApp\\LiveStreamApp.csproj|d:\\asp\\projectts\\2022\\livestreamapp\\livestreamapp\\hubs\\streamhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082F22E0-AEE9-4A1E-87CD-612D9BD50DE8}|LiveStreamApp\\LiveStreamApp.csproj|solutionrelative:livestreamapp\\hubs\\streamhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082F22E0-AEE9-4A1E-87CD-612D9BD50DE8}|LiveStreamApp\\LiveStreamApp.csproj|d:\\asp\\projectts\\2022\\livestreamapp\\livestreamapp\\wwwroot\\js\\streamhub.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{082F22E0-AEE9-4A1E-87CD-612D9BD50DE8}|LiveStreamApp\\LiveStreamApp.csproj|solutionrelative:livestreamapp\\wwwroot\\js\\streamhub.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082F22E0-AEE9-4A1E-87CD-612D9BD50DE8}|LiveStreamApp\\LiveStreamApp.csproj|d:\\asp\\projectts\\2022\\livestreamapp\\livestreamapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{082F22E0-AEE9-4A1E-87CD-612D9BD50DE8}|LiveStreamApp\\LiveStreamApp.csproj|solutionrelative:livestreamapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082F22E0-AEE9-4A1E-87CD-612D9BD50DE8}|LiveStreamApp\\LiveStreamApp.csproj|d:\\asp\\projectts\\2022\\livestreamapp\\livestreamapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082F22E0-AEE9-4A1E-87CD-612D9BD50DE8}|LiveStreamApp\\LiveStreamApp.csproj|solutionrelative:livestreamapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082F22E0-AEE9-4A1E-87CD-612D9BD50DE8}|LiveStreamApp\\LiveStreamApp.csproj|d:\\asp\\projectts\\2022\\livestreamapp\\livestreamapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{082F22E0-AEE9-4A1E-87CD-612D9BD50DE8}|LiveStreamApp\\LiveStreamApp.csproj|solutionrelative:livestreamapp\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{082F22E0-AEE9-4A1E-87CD-612D9BD50DE8}|LiveStreamApp\\LiveStreamApp.csproj|d:\\asp\\projectts\\2022\\livestreamapp\\livestreamapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082F22E0-AEE9-4A1E-87CD-612D9BD50DE8}|LiveStreamApp\\LiveStreamApp.csproj|solutionrelative:livestreamapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\LiveStreamApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LiveStreamApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\LiveStreamApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LiveStreamApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:20:30.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "streamhub.js",
+              "DocumentMoniker": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\LiveStreamApp\\wwwroot\\js\\streamhub.js",
+              "RelativeDocumentMoniker": "LiveStreamApp\\wwwroot\\js\\streamhub.js",
+              "ToolTip": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\LiveStreamApp\\wwwroot\\js\\streamhub.js",
+              "RelativeToolTip": "LiveStreamApp\\wwwroot\\js\\streamhub.js",
+              "ViewState": "AQIAAHgAAAAAAAAAAAAgwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-20T10:19:19.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\LiveStreamApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "LiveStreamApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\LiveStreamApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "LiveStreamApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:17:12.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\LiveStreamApp\\Program.cs",
+              "RelativeDocumentMoniker": "LiveStreamApp\\Program.cs",
+              "ToolTip": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\LiveStreamApp\\Program.cs",
+              "RelativeToolTip": "LiveStreamApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:14:29.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StreamHub.cs",
+              "DocumentMoniker": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\LiveStreamApp\\Hubs\\StreamHub.cs",
+              "RelativeDocumentMoniker": "LiveStreamApp\\Hubs\\StreamHub.cs",
+              "ToolTip": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\LiveStreamApp\\Hubs\\StreamHub.cs",
+              "RelativeToolTip": "LiveStreamApp\\Hubs\\StreamHub.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T10:12:51.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\LiveStreamApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "LiveStreamApp\\Pages\\Index.cshtml",
+              "ToolTip": "D:\\ASP\\Projectts\\2022\\LiveStreamApp\\LiveStreamApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "LiveStreamApp\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T10:08:56.978Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
